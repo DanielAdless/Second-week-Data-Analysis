@@ -97,11 +97,12 @@ Here's a quick explanation of Machine Learning:
 
 3. Machine Learning type:
 
-        • Supervised Learning: The system is provided with training data that pairs with labels, and the goal is to learn the relationship between inputs and                                      outputs so that it can make precise predictions on new data.
+    • Supervised Learning: The system is provided with training data that pairs with labels, and the goal is to learn the relationship between inputs and outputs so that it can make 
+      precise predictions on new data.
 
-        • Unsupervised Learning: The system processes unlabeled data and attempts to find patterns or groups in the data.
+    • Unsupervised Learning: The system processes unlabeled data and attempts to find patterns or groups in the data.
 
-        • Reinforcement Learning: The system learns through interaction with its environment and receives feedback based on actions taken.
+    • Reinforcement Learning: The system learns through interaction with its environment and receives feedback based on actions taken.
 
 4. Machine Learning applications: ML is used in a variety of applications, such as facial recognition, text analysis, weather forecasting, fraud alerts, autonomous cars, and more.
 
