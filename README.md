@@ -146,6 +146,9 @@ Below is a more detailed explanation of both in the context of data visualizatio
 
 
 
+
+
+
 **"The second week in the course of learning Data Analysis: Start understanding statistics, data exploration, and the basics of visualization. Feeling closer to becoming a competent data analyst! 💡📊**
 
 
