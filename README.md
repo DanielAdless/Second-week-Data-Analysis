@@ -63,15 +63,15 @@ Here's a brief explanation of Simple Linear Regression:
 3. In Simple Linear Regression, we try to model the relationship between X and Y as a straight line (linear model) represented by the regression equation
 
 
-Y = β 0 + β1 * X
+        Y = β 0 + β1 * X
 
-Y is a dependent variable.
+        Y is a dependent variable.
 
-X is an independent variable.
+        X is an independent variable.
 
-β0 is the intercept (cut point with the Y-axis) of the regression line.
+        β0 is the intercept (cut point with the Y-axis) of the regression line.
 
-β1 is the regression coefficient (line slope).
+        β1 is the regression coefficient (line slope).
 
 
 4. Objective: The goal of Linear Regression is to find parameters (β0 and β1) that provide the best regression lines corresponding to the observation data.
